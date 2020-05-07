@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FireReport</string>
+
+    <string name="btEnviar2">Enviar</string>
 </resources>

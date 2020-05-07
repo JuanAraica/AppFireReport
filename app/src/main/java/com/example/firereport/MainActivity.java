@@ -3,9 +3,10 @@ package com.example.firereport;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Toast;
-
+import android.widget.EditText;
+import android.widget.TextView;
+import android.view.View;
 public class MainActivity extends AppCompatActivity {
-
 
 
     @Override
@@ -44,5 +45,8 @@ public class MainActivity extends AppCompatActivity {
         super.onDestroy();
         Toast.makeText(this, "OnDestroy", Toast.LENGTH_SHORT).show();
         // La actividad está a punto de ser destruida.
+    }
+    public void capturaCoordenadas(View view){
+
     }
 }
