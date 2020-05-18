@@ -47,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
         // La actividad está a punto de ser destruida.
     }
     public void capturaCoordenadas(View view){
-
+        Toast.makeText(this, "Coordenadas extraidas", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Coordenadas enviadas", Toast.LENGTH_SHORT).show();
     }
 }

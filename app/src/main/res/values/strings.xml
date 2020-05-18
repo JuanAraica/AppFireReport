@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">FireReport</string>
 
-    <string name="btEnviar2">Enviar</string>
+    <string name="btEnviar2">Ingresar</string>
+    <string name="user">USUARIO</string>
+    <string name="pass">PASSWORD</string>
+    <string name="btnEnviar">Enviar</string>
 </resources>
