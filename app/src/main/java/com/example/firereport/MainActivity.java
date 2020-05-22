@@ -1,10 +1,8 @@
 package com.example.firereport;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Toast;
-import android.widget.EditText;
-import android.widget.TextView;
 import android.view.View;
 public class MainActivity extends AppCompatActivity {
 
